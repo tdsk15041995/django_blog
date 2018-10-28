@@ -1,0 +1,8 @@
+#navigation_bar{
+	background-color: #6168d2;
+}
+#login_btn,#register_btn{
+	margin-right:8px;
+	background-color: white;
+	color:#6168d2;
+}
